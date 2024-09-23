@@ -57,3 +57,11 @@ The project includes comprehensive unit tests written with Vitest and end-to-end
 
 - **Unit Tests**: Run `npm run test:unit` in the project directory.
 - **Cypress Tests**: Open Cypress with `npm run test:e2e:dev` and run the tests in the Cypress UI.
+
+## Components:
+
+![Component Diagram](./hcardBuilder.drawio.png)
+
+## Screenshot:
+
+![App Screenshot](./hCardBuilder.png)
